@@ -69,7 +69,7 @@ export const getGetStartedKey = async () => {
 };
 
 export const getInterestFormResponseKey = async () => {
-  const const response = await api.get('/ui/interest-form-response');
+  const response = await api.get('/ui/interest-form-response');
   return response.data;
 };
 

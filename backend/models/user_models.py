@@ -2,7 +2,7 @@
 User models and schemas for the Hobbyist AI application
 """
 
-from typing import Optional, Dict, Any
+from typing import Optional, Dict, Any, List, Set
 from datetime import datetime
 from pydantic import BaseModel, Field
 
