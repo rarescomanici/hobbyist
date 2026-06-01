@@ -1,0 +1,7 @@
+pyproject.toml
+hobbyist_backend.egg-info/PKG-INFO
+hobbyist_backend.egg-info/SOURCES.txt
+hobbyist_backend.egg-info/dependency_links.txt
+hobbyist_backend.egg-info/entry_points.txt
+hobbyist_backend.egg-info/requires.txt
+hobbyist_backend.egg-info/top_level.txt
